@@ -11,4 +11,7 @@ import scrapy
 class ClojuriansSlackItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    channel = scrapy.Field()
+    date = scrapy.Field()
+    user = scrapy.Field()
+    text = scrapy.Field()
