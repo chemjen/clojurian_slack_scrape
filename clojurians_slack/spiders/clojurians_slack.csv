@@ -1,0 +1,697 @@
+channel,date,text,thread,timestamp,url,username
+admin-announcements,2017-01-11,"Just an FYI: tonight we archived all channels that had zero or one members as part of general housekeeping. We're likely to archive several more low membership channels over the next few days. If you have created a low membership channel for a specific purpose and want it to be exempt from this ""purge"", please DM myself or one of the other admins and let us know about your channel. Thanks. ",1,07:01:53,https://clojurians-log.clojureverse.org/admin-announcements/2017-01-11,seancorfield
+admin-announcements,2017-01-11,thank you Sean!,2,09:01:46,https://clojurians-log.clojureverse.org/admin-announcements/2017-01-11,robert-stuttaford
+admin-announcements,2017-01-11,A quick PSA to let folks know in addition to ,3,21:01:54,https://clojurians-log.clojureverse.org/admin-announcements/2017-01-11,seancorfield
+admin-announcements,2017-11-02,"Hello everyone, to get rid annoying (and confusing) warnings about file storage space we are considering purging old files on a regular basis. Most likely this will mean that every week we delete files older than 30 days.
+
+If you have any files stored in this Slack that you need please download them within the next 10 days (i.e. until 2017-11-12). 
+
+Follow up questions can go to ",1,18:11:35,https://clojurians-log.clojureverse.org/admin-announcements/2017-11-02,martinklepsch
+admin-announcements,2018-01-05,"Clojurians continues to grow -- we're almost 12,000 string now! -- and we have over 400 channels for you to explore. On that topic, in addition to ",1,17:01:54,https://clojurians-log.clojureverse.org/admin-announcements/2018-01-05,seancorfield
+admin-announcements,2018-11-08,"In light of the unpleasant activity by some bad actors in a few channels the other night, we've added a new Admin in a timezone that can cover the period between me going to bed on the West Coast and our European Admins waking up. ",1,06:11:55,https://clojurians-log.clojureverse.org/admin-announcements/2018-11-08,seancorfield
+admin-announcements,2016-08-11,,1,07:08:23,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-11,vijaykiran
+admin-announcements,2016-08-14,"caesium 0.8.0 is out! It’s a Clojure-first binding to libsodium that gives you strong, modern, fast and easy to use crypto while not compromising on making low-level APIs available when you need them. Tons of automated testing and benchmarks as per usual. Tons of cool changes in this version, especially around simplifying which JVM byte types get used in what cases (still mostly backwards compatible if you use the high-level API) ",1,13:08:53,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-14,lvh
+admin-announcements,2016-08-14,"I made a demo of Stack Editor, it's a new way of editing Clojure code, by managing and jump between functions. Now I can use it in my app. Hope someone is interested too. ",2,15:08:38,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-14,jiyinyiyong
+admin-announcements,2016-08-14,This channel is for announcements only. Please move all discussion to ,3,17:08:07,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-14,akiva
+admin-announcements,2016-08-15,,1,13:08:23,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-15,alexmiller
+admin-announcements,2016-08-15," - Erlang/otp primitives on top of core.async processes, process linking, process monitoring, process registration and tracing is there. initial gen_server is also done. Supervision is still to come.",2,17:08:31,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-15,aav
+admin-announcements,2016-08-15,Datomic 0.9.5394 is now available ,3,17:08:48,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-15,marshall
+admin-announcements,2016-08-16,Post Free Clojure Jobs -> ,1,12:08:42,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-16,ertucetin
+admin-announcements,2016-08-16,"New guide/mini-ebook (also pdf, ebub, mobi) ",2,16:08:05,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-16,plexus
+admin-announcements,2016-08-17,[ann] catacumba 1.0.0 released - the release is mainly focused on code cleaning and minor refactoring (now with support for async body reading) - ,1,15:08:35,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-17,niwinz
+admin-announcements,2016-08-19,"CfP for Clojure eXchange in London 1st-2nd December closes on Tuesday 30th August. If you've been working on a Clojure open source library, have an experience report on how you've used Clojure, or have a creative music/art project using Clojure please submit a talk. ",1,07:08:00,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-19,agile_geek
+admin-announcements,2016-08-19,Clojure 1.9.0-alpha11 release: ,2,18:08:07,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-19,alexmiller
+admin-announcements,2016-08-21,"re-frame v0.8.0 released
+",1,11:08:19,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-21,mikethompson
+admin-announcements,2016-08-22,"Hi all,
+
+I'm running a small beta release of a new kind of interactive computing notebook called Literate Markdown. It's basically a cloud-based Jupyter notebook with multi-language support and collaboration features, and I'd love to get a few people to try out the Clojure support.
+
+If you're interested, you should create an account, then go to your profile page and click the ""Apply to the beta"" button: ",1,02:08:15,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-22,thomasjm
+admin-announcements,2016-08-22,: I applied to your beta,2,07:08:45,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-22,camdenclark
+admin-announcements,2016-08-22," so did I, looks like a coolproject",3,15:08:59,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-22,pesterhazy
+admin-announcements,2016-08-22,: ,4,15:08:42,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-22,eggsyntax
+admin-announcements,2016-08-23, < Your comic relief with Village Idiots (,1,17:08:02,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-23,vijaykiran
+admin-announcements,2016-08-24,There’s a new release of Cloverage out at ,1,13:08:11,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-24,lvh
+admin-announcements,2016-08-25,"Leiningen 2.7.0 is out!
+
+Changelog is over at ",1,01:08:01,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-25,hypirion
+admin-announcements,2016-08-25,Dirac DevTools v0.6.4: ,2,18:08:18,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-25,darwin
+admin-announcements,2016-08-25,clojure.java.jdbc 0.6.2-alpha3 is available ,3,20:08:12,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-25,seancorfield
+aatree,2016-01-19,Added some issues: ,1,11:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,I've added aalog.cljc to aautil and the aalog-test.cljs works. But I've a long way to go on testing the js. ,2,15:01:49,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,": I'll see what I can do, sure. I'm on a borrowed Windows 10 laptop so I need to set up a bunch of stuff today.",3,15:01:00,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,I can work on the boot file or get help from the terrific boot folks,4,15:01:39,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,not a priority!,5,15:01:40,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,sure it is,6,15:01:55,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,"well, ok. ",7,15:01:04,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,I do what I want!!!!!!!!!,8,15:01:22,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,,9,15:01:45,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,Fell free as well to add some other useful snippets to aautil.,10,15:01:48,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,you and me both!,11,15:01:01,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,"But after working on this stuff for more than 10 years, alone, what I want is to work more with others like yourself.",12,15:01:51,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,,13,15:01:25,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,OMG!,14,15:01:16,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,,15,15:01:31,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,welcome to my world - its a bit twisted,16,16:01:04,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,"I am also thinking in the boot that a lot of the dependencies need to be scoped to testing. I mean, it is a library that might be used on the server and many of those dependencies would really be inappropriate.",17,16:01:08,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,I've used the python twisted library!,18,16:01:37,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,so have I - years ago - small world,19,16:01:06,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,are you using ,20,16:01:27,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,I was surprised that I couldn't find a logger.cljc file in some utility project somewhere already. Methinks it really is the early days.,21,16:01:23,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,what is dirac???,22,16:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,"Oh, I just added a new task--test-it",23,16:01:43,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,boot task,24,16:01:49,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,,25,16:01:39,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,video compression?,26,16:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,oh,27,16:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,to help with testing in Chrome,28,16:01:10,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,cool,29,16:01:28,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,gotta run. behind schedule,30,16:01:37,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,ttyl,31,16:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-19,meow
+aatree,2016-01-19,super!,32,16:01:18,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+aatree,2016-01-19,"dental at 2pm, so I'll be out much of my day. (is 11:30 local time here.)",33,16:01:55,https://clojurians-log.clojureverse.org/aatree/2016-01-19,laforge49
+100-days-of-code,2018-10-01,"Although I have been coding every day, I am behind with my journal. Had a busy few days with ClojureBridge London event and hope to catch up today.",1,12:10:10,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-01,jr0cket
+100-days-of-code,2018-10-02,"Starting to catch up on my log, still have a couple of days to go.  Today I was organising ClojureX conference, mentoring new speakers and updating the HackTheTower site to the revamped HackTogetherLDN.",1,23:10:18,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-02,jr0cket
+100-days-of-code,2018-10-04,R1D17-19 (got quite lazy this week reporting): 4clj continued,1,00:10:22,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-04,klaus.azesberger
+100-days-of-code,2018-10-04,i think i should sew in some practical coding before actually finishing 4clj-exercises to excite myself again.,2,00:10:56,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-04,klaus.azesberger
+100-days-of-code,2018-10-04,"Finally got caught up...
+...on my dishes, that is.
+Day I-forgot-what-we're-up-to: re-frame todomvc, jr0cket's spacemacs guide, and a call for resources on CSS and general UI design stuff
+",3,01:10:38,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-04,porkostomus
+100-days-of-code,2018-10-04,"Closing off this log, and continuing in org-mode, exported to markdown from my new spacemacs config, a cyberpunk nyan-cat theme! ",4,10:10:01,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-04,porkostomus
+100-days-of-code,2018-10-04," thanks for the mention of my Spacemacs guide.  I just added another page to the Spacemacs basics on some Vim Normal keybindngs. I'm always adding things so let me know if you think something could be added.
+",5,20:10:08,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-04,jr0cket
+100-days-of-code,2018-10-04,"Day 20 already and I have lots more coding in me.  Still a little behind on the log, so just need to practice adding to that as I work during the day.
+",6,21:10:59,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-04,jr0cket
+100-days-of-code,2018-10-05,R1D20: picked up completing skipped exercises and solved 86. had (again) a bit troubles to deal with extracting the solution from the lazy seq. but i feel like I'm getting better as long as I keep doing this coding hour without exception. It's still very new to me and i fear instantaneous amnesia once i get lazy. ,1,00:10:58,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-05,klaus.azesberger
+100-days-of-code,2018-10-05,Today was inspired by ,2,17:10:45,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-05,jr0cket
+100-days-of-code,2018-10-05,Oh cool let me try that,3,18:10:25,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-05,porkostomus
+100-days-of-code,2018-10-05,(just finished yesterday's ramblings on my task meta-management),4,18:10:48,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-05,porkostomus
+100-days-of-code,2018-10-05,,5,18:10:37,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-05,porkostomus
+100-days-of-code,2018-10-07,R1D21/22: still here! ,1,00:10:36,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-07,klaus.azesberger
+100-days-of-code,2018-10-07,Is there a channel dedicated to #learning in general?  I don't want to clutter this channel from the folks making the 100 days commitment.,2,01:10:59,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-07,rmprescott
+100-days-of-code,2018-10-07,"Day 21: Learning Spacemacs, made a cheat sheet of just the commands I personally use
+",3,02:10:42,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-07,porkostomus
+100-days-of-code,2018-10-07,"Day 22: investigating visualstudio code extensions for clojure to understand which ones are maintained (as there are several).  It seems Calva is the extension to use, although you need to start the REPL from outside the editor.
+
+I was contacted by a Java developer who is interested in Clojure but didnt know how to start thinking in Clojure.  I wrote a fairly simple function to compare it with defining Java class.   I also showed them some basics of how to model data in Clojure and how to traverse that data model.
+",4,17:10:22,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-07,jr0cket
+100-days-of-code,2018-10-07,"Day 23: Its Spacemacs Sunday today, at least for me anyway.  Learnt how to use org-mode a little better and many other little improvements in my workflow.  Using org-mode to write my journal log helps a lot and I think I have translated all the things I used to do into the Spacemacs / Vim approach now.  Everything I am learning is going into the book I am writing on Spacemacs.
+
+Also had a discussion with one of the developers I coach about how to do environment configuration in Clojure.  Aero is a really nice library if you have a lot of configurations to define and environ is great when you want to pull from Operating System environment variables.
+",5,17:10:38,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-07,jr0cket
+100-days-of-code,2018-10-07,"I have a habit of doing a huge amount of my coding long into the night. While I'm usually pretty good at figuring out what the hell I was doing the next morning, today it felt like I woke up tangled in a spiderweb.
+
+So I've been spending all morning doing debugging sanity-checks. I'm refactoring my 4clojure terminal runner to use a more reasonable form of data persistence. And it is loads of tedious fun!
+",6,21:10:45,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-07,porkostomus
+100-days-of-code,2018-10-07,"Also celebrating Spacemacs Sunday!
+Though I'm having performance issues running CIDER on this low-end laptop. Not sure if I'm doing something wrong, but the REPL in emacs is running like utter garbage... I got fed up and had to go back to my console REPL and Bob, my tiny toy editor and/or Leafpad.
+That's right - I write my Clojure in Leafpad! And I'm proud of it.
+
+However... now I'm addicted to Spacemacs, if only just for org-mode!",7,23:10:12,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-07,porkostomus
+100-days-of-code,2018-10-08, a recent update to the Clojure layer removes the sayid debugger by default (and there is a pull request to remove clj-refactor too).  Not running sayid may lead to less resources being used as previously it was injected as a dependency when you start the REPL from Spacemacs.  Adding sayid back in if you do need a debugger is just a variable on the Clojure layer ,1,10:10:44,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-08,jr0cket
+100-days-of-code,2018-10-08,had another coding session with timothy pratley. these sessions have become a great motivation boost to me (in addition to being super helpful to learn/discover new things).,2,12:10:29,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-08,klaus.azesberger
+100-days-of-code,2018-10-08,R1D23: 4clj89,3,12:10:32,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-08,klaus.azesberger
+100-days-of-code,2018-10-08,the problem statement was a bit confusing for me. i was not sure whether duplicate edges were to be treated as one or whether i need to visit each edge (even the duplicated ones) exactly once. (the latter was the case).,4,12:10:35,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-08,klaus.azesberger
+100-days-of-code,2018-10-09,Day 24: Basically rewrote the whole program taking a (hopefully) better approach driven by writing unit tests.  I'm very pleased because it's the first time that design pattern has really clicked for me. I managed to climb out of a thick mental fog by just talking it through in the journal and writing tests. ,1,00:10:58,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-09,porkostomus
+100-days-of-code,2018-10-09,"OK: I guess I'm going to have to actually start a public journal.  ;D
+I did 4Clojure P125 - a quine in Clojure.
+
+Took the classic ""C"" like approach -- ugly, Then realized I could clean it up bit with a few less quotes.  Ho hum...
+
+Then I saw amalloy's solution.  Wow!
+I think I have to go back and re-read that section in GEB.
+All I can say is....wow!",2,03:10:29,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-09,rmprescott
+100-days-of-code,2018-10-09,"OK: I guess I'm going to have to actually start a public journal.  ;D
+I did 4Clojure P125 - a quine in Clojure.
+
+Took the classic ""C"" like approach -- ugly, Then realized I could clean it up bit with a few less quotes.  Ho hum...
+
+Then I saw amalloy's solution.  Wow!
+I think I have to go back and re-read that section in GEB.
+All I can say is....wow!",3,03:10:29,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-09,rmprescott
+100-days-of-code,2018-10-09,"Day 25 - quarter of the way through the challenge and I am loving every minute.  Today I started to get back into the swing of creating screencasts for the Spacemacs book as well as working on the Magic section.  Magit is such a wonderful Git client, so fast and full of easy to use features.  I still have lots to add on Magit though.
+",4,23:10:49,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-09,jr0cket
+100-days-of-code,2018-10-09,"Earlier today, I just happened to type ""magit spacemacs"" into Google and saw your video there in the results, just a few hours after you posted it",5,23:10:19,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-09,porkostomus
+100-days-of-code,2018-10-10,It's quite nice to Google for how to do something and see your own content listed. It's the little things in life sometime ,1,10:10:02,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-10,jr0cket
+100-days-of-code,2018-10-10,"Day 26 - more hacking on my Spacemacs book and rewriting development tool install guides for ClojureBridge London
+",2,22:10:23,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-10,jr0cket
+100-days-of-code,2018-10-13,"Got Babel working, with Incanter Charts: ",1,02:10:23,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-13,porkostomus
+100-days-of-code,2018-10-13,state of R1D29: since my last report i made it to 4clj-102,2,21:10:29,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-13,klaus.azesberger
+100-days-of-code,2018-10-15,"Having a great time watching all the new Strange Loop videos. And they just keep coming out!
+Right now I'm watching ""Tree-sitter - a new parsing system for programming tools"" by Max Brunsfeld,
+and it gave me some ideas to try on Bob, the Text Editor:
+",1,00:10:47,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-15,porkostomus
+100-days-of-code,2018-10-15,"My log has splintered off once again:
+",2,00:10:58,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-15,porkostomus
+100-days-of-code,2018-10-15,"Day 31: I'm wanting to get a better sense of the time complexity of algorithms in Clojure.
+So far I've made a basic chart, and my plan is to implement them and do my own little performance tests and chart them with Incanter.
+So far I seem to have produced a tiny amount of meaningful data, but honestly I have no idea what I'm doing and am probably doing it completely wrong.
+If anyone has done this kind of thing before and could point me to any resources, I'd be most grateful.
+",3,19:10:12,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-15,porkostomus
+100-days-of-code,2018-10-16,"Day 26-31 although I have not been updating here on slack, I have been busy away updating the ClojureBridge workshop development environment installation guides.  Its now (hopefully) easier to follow the operating system specific guides (now tab sections on a single page) for Java, Leiningen and the students editor of choice (Atom with ProtoREPL or Proton, VSCode and Calva, Spacemacs and IntelliJ).  I still have some work on the editors to do, especially Spacemacs and IntelliJ.  I will also add user guides that have just the essentials for the students, so they dont spend more time learning the tools than learning Clojure on the day.
+
+I've also been looking at the way Spacemacs works with the REPL and especially the REPL history buffer.  Currently it doesnt fit with the Evil approach and requires switching more than neccessary between Vim normal and insert states.
+",1,12:10:59,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-16,jr0cket
+100-days-of-code,2018-10-17,"Still finishing up yesterday's task of tediously looking up every Clojure function, macro, etc. in order to implement syntax highlighting in my text editor.
+There probably would have been a way to avoid this, but I really don't mind...
+In fact, I can think of many far less useful things I could be doing.
+",1,18:10:42,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-17,porkostomus
+100-days-of-code,2018-10-17,"Day 32 & 33 and my journal is all caught up.  Yesterday I was hacking on some examples for my Clojure through code repository, adding and refactoring examples that will go into the Practicalli Clojure book (which I'm going to start working on along side the Spacemacs book).  Today I added a simplified guide to installing Emacs and Spacemacs for Linux, MacOSX and Windows (64bit).
+",2,22:10:31,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-17,jr0cket
+100-days-of-code,2018-10-17,R1D30->33: 4clj103->107 and I started actual work on this: ,3,23:10:00,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-17,klaus.azesberger
+100-days-of-code,2018-10-17,short term goal is the very oppinionated solution for myself / my current job. but it should not be that hard to translate some kind of meta-data (even yaml) into useful specs which would make this way more accessible for the common ansible user,4,23:10:24,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-17,klaus.azesberger
+100-days-of-code,2018-10-17,(...and maybe this project lures some devops guys to the bright side of clojure),5,23:10:43,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-17,klaus.azesberger
+100-days-of-code,2018-10-18,"ha! just had a look what's the state of the proposal in the ansible core code, and they seem to have matured their ideas and already implemented a first version. i am very likely to weave this into my project as their approach will also allow to validate a role ""ad-hoc"".",1,08:10:26,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-18,klaus.azesberger
+100-days-of-code,2018-10-18,for those who're curious: ,2,08:10:02,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-18,klaus.azesberger
+100-days-of-code,2018-10-18,"I can't believe this actually works, but I added REPL support to my Clojure editor via Planck.
+I recorded a quick demo: ",3,09:10:10,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-18,porkostomus
+100-days-of-code,2018-10-18,"I created a key binding, Ctrl+e for ""eval last expression"". But it doesn't work like you'd think...
+It actually just saves the whole buffer to a file that is evaluated with Planck.
+I implemented a file-watcher in Bash that reloads it whenever it changes.",4,09:10:19,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-18,porkostomus
+100-days-of-code,2018-10-18,"Day 34 - Over a third of the way there.  Added more content to the Spacemacs book, including video content for Helm
+Transient State and trying out Pull Requests from Magit.
+
+Its Ubuntu 18.10 release day, so I have been celebrating with the Emacs Ubuntu theme.  Its quite nice, perhaps could tweak a few colours though.  I do like the styling in the helm popups though.
+",5,15:10:35,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-18,jr0cket
+100-days-of-code,2018-10-19,"Day 35: Learning how to use pREPL so I can add it to my editor.
+Not really any resources on it other than reading the code itself, which makes it extra fun!
+",1,20:10:55,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-19,porkostomus
+100-days-of-code,2018-10-19,"sorry, you already had it",2,20:10:23,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-19,jr0cket
+100-days-of-code,2018-10-19,"yeah, that's also how I found out about it in the first place",3,20:10:22,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-19,porkostomus
+100-days-of-code,2018-10-19,thinking of trying reptile out at one of the coding dojos I go to.,4,20:10:22,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-19,jr0cket
+100-days-of-code,2018-10-19,It's great watching them test it live on the show,5,20:10:45,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-19,porkostomus
+100-days-of-code,2018-10-21,"So now my log is a GitHub Page for the repo:
+",1,04:10:11,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-21,porkostomus
+100-days-of-code,2018-10-21,"Occasionally I'd question my obsession with KLIPSE as if it's merely scratching some kind of nerd-itch.
+But the truth is they come in extremely handy to serve as live templates for problems, even whole projects.",2,04:10:20,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-21,porkostomus
+100-days-of-code,2018-10-21,"This sudden change in workflow has inspired a whole new project:
+I want to make a Clojure coding notebook webapp.
+Perhaps I'll learn re-plumb and do something more intricate, along the lines of maria.cloud.
+Or I could use Zach Oakes' tool Paren Soup since it's more about Clojure.
+Wait... didn't Timothy Pratley have a thing like that?
+He made a whole interactive learning environment and did a talk on it, gotta find that again.
+The idea is to unify the whole user experience of content creation,
+so that I'm no longer working on the source code but from within the app itself.",3,04:10:35,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-21,porkostomus
+100-days-of-code,2018-10-21,Well I discovered Github is currently a little broken ,4,23:10:07,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-21,jr0cket
+100-days-of-code,2018-10-21,"As a short summary, I did some more work on my Spacemacs book, the ClojureBridge workshop (spacemacs simple user guide) and had fun breaking and fixing my builds for the status-monitor.  An upshot of breaking the builds was that I discovered more about how ",5,23:10:39,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-21,jr0cket
+100-days-of-code,2018-10-22,"Github is mostly working again, at least you can see my commits in the webUI now.  So here is the log up to day 37 ",1,10:10:25,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-22,jr0cket
+100-days-of-code,2018-10-22,"It turns out maria.cloud does exactly what I want. You create ""code blocks"" and ""prose blocks"", and the UI is incredibly intuitive. And it looks ",2,19:10:40,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-22,porkostomus
+100-days-of-code,2018-10-22,"Day 38 involved a bunch of event organising, especially for the workshops before ClojureX conference.  Looks like we have a spec workshop for a few hours in the afternoon and I am planning to run a Clojure CLI, figwheel.main workshop, building a ClojureScript app.
+
+I also worked on the Status monitor app and added the idea of data centre locations that would have their own dashboards
+",3,23:10:53,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-22,jr0cket
+100-days-of-code,2018-10-23,Day 39: Got my reagent minesweeper working: ,1,12:10:10,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-23,porkostomus
+100-days-of-code,2018-10-23,"Day 39:  A quick hack with Bootstrap and status monitor application, adding Bootstrap to a form that selects which data centre dashboard you wish to view.
+",2,20:10:41,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-23,jr0cket
+100-days-of-code,2018-10-25,"meh, need to confess, that i had a break from 100-days-of-code since last saturday... ",1,09:10:44,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-25,klaus.azesberger
+100-days-of-code,2018-10-25,"so tonight, tonight (bernstein in my ears), I'm going to code again. maybe with my freshly installed spacemacs xD having still some troubles getting automatic parens balancing to work, i think i've missed something out, smart parens minor mode seems to be active but when i kill rest of line for example it just kills the rest of line w/o balancing parens like in this video (which isnt spacemacs but i'd like to have this kind of balancing...) ",2,09:10:56,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-25,klaus.azesberger
+100-days-of-code,2018-10-25, I think you need to set strict mode on for smartparents  ,3,12:10:14,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-25,jr0cket
+100-days-of-code,2018-10-25,"Day 40 I started coaching a new student in Clojure, they have never done any coding before but took to Clojure really well.   I gave a little overview to Clojure and then we worked through some of the ClojureBridge London workshop.  We found a few examples were not worded very well, so I updated them and pushed the changes.
+
+I also discovered hot to sett the size of images in org-mode using ",4,23:10:18,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-25,jr0cket
+100-days-of-code,2018-10-25,"Day 41 suffered from quite a few Internet outages, so I created some Spacemacs screencasts as well as did updates to the book, including a Sayid debugger overview, vim reference guide updates and reorganising some of the vim tips I had.
+",5,23:10:00,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-25,jr0cket
+100-days-of-code,2018-10-26,"I now have a working game, that is, you are able to win or lose. ",1,01:10:55,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-26,porkostomus
+100-days-of-code,2018-10-29,"After listening to this interview with Elana Hashman on packaging Leiningen, ",1,16:10:59,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-29,porkostomus
+100-days-of-code,2018-10-29,"I just listend to the same podcast, was really interesting.  Big thanks to all that have put the work in.",2,22:10:16,https://clojurians-log.clojureverse.org/100-days-of-code/2018-10-29,jr0cket
+100-days-of-code,2018-11-04,"This past week has been working towards joining the Debian Clojure team. My first contribution will be packaging tools.deps.
+A great article on data visualisation in Clojure: ",1,19:11:03,https://clojurians-log.clojureverse.org/100-days-of-code/2018-11-04,porkostomus
+100-days-of-code,2018-11-05,"I think I made my first Debian package!
+",1,20:11:05,https://clojurians-log.clojureverse.org/100-days-of-code/2018-11-05,porkostomus
+100-days-of-code,2018-11-08,"Now that all dependencies for tools.deps have been uploaded to Debian, there are just 3 packages that need a version bump. I just knocked out this one: ",1,18:11:05,https://clojurians-log.clojureverse.org/100-days-of-code/2018-11-08,porkostomus
+100-days-of-code,2018-11-18,"Did anyone create a cljs ui project that can talk to an existing REST back-end, say in python or java?",1,08:11:55,https://clojurians-log.clojureverse.org/100-days-of-code/2018-11-18,manas.marthi
+100-days-of-code,2018-11-18,Do I need to run the ui on a different port with CORS settings on the REST back-end?,2,08:11:49,https://clojurians-log.clojureverse.org/100-days-of-code/2018-11-18,manas.marthi
+100-days-of-code,2018-11-21,"Apologies for the lack of updates here, I have got my log back up to date again.  For the last couple of weeks I have started working on my Practicalli Clojure book and a code base of Clojure examples called Clojure-through-code.
+
+I have also started a Virtual study group using YouTube live broadcasting and recording.  I have had 3 broadcasts so far, just covering some of the basics of Clojure and tooling.  My broadcast schedule and recordings are published on the study guide ",1,01:11:21,https://clojurians-log.clojureverse.org/100-days-of-code/2018-11-21,jr0cket
+100-days-of-code,2018-11-22,"Day 68 and it is starting to feel like winter, very chilly today, although nice and warm in the direct sunlight.  Today I had my first job interview in ages and surprisingly I really enjoyed the experience.
+
+I added a code file of all the solutions of the ClojureBridge London exercises to my clojure through code repository on github.  I'll use some of those exercises for the Practicalli Clojure book and greatly expand on them over the coming months.
+
+Also started a chapter on Macros in the Practicalli Clojure book.  The initial discussion is about what a macro is and the constraints around using them, i.e. functional composition.
+
+",1,01:11:08,https://clojurians-log.clojureverse.org/100-days-of-code/2018-11-22,jr0cket
+100-days-of-code,2018-12-01,"A busy week of interviews for a new role using Clojure, continuing on with my virtual Clojure study group, mentoring several people in Clojure (and occasionally Spacemacs), adding more content to my Practicalli books and completing some more 4Clojure challenges.  Oh and sorting out some issues with the Clojure workshops before ClojureX this year, as well as a few additional things with ClojureX itself.
+
+The log is up to day, just lapsed a little in pushing it to Github and updating here.
+",1,01:12:19,https://clojurians-log.clojureverse.org/100-days-of-code/2018-12-01,jr0cket
+100-days-of-code,2018-12-01,"Oh my, the holidays keep getting closer every day ",2,22:12:52,https://clojurians-log.clojureverse.org/100-days-of-code/2018-12-01,jr0cket
+100-days-of-code,2018-12-01,"The advent of code started today, so I hope to find time to work on some of the challenges.  Hopefully I wont see too many spoilers in the ",3,22:12:09,https://clojurians-log.clojureverse.org/100-days-of-code/2018-12-01,jr0cket
+100-days-of-code,2018-12-10,"i solved stuff incl d7-part1, day 6 was imho quite hard because i didnt get my head around how to tell whether fields are infinite or not ",1,15:12:28,https://clojurians-log.clojureverse.org/100-days-of-code/2018-12-10,klaus.azesberger
+100-days-of-code,2018-12-10,"While everyone has been doing Advent of Code, I've been doing my own thing: ",2,18:12:47,https://clojurians-log.clojureverse.org/100-days-of-code/2018-12-10,porkostomus
+100-days-of-code,2018-12-23,"Since I needed a way to mark up algebraic expressions, I got to dive back into TeX to use MathJax. I've used TeX in the past for a couple of projects, one for doing sheet music notation with Lilypond, and once for publishing a Hebrew/English text which needed to read in both directions.
+",1,17:12:32,https://clojurians-log.clojureverse.org/100-days-of-code/2018-12-23,porkostomus
+100-days-of-code,2019-07-01,"Sam is fond of chocolates, so Alex gave Sam some boxes of chocolates as a gift. Sam wants to choose one or more boxes of chocolates such that the average number of chocolates in the chosen boxes is exactly equal to some integer k.  Given the number of chocolates in each box, determine the number of ways Sam can choose boxes such that the average number of chocolates across the chosen boxes is equal to k.  Since the result may be very large, return the value modulo (109+7).
+
+
+
+For example, Alex bought 3 boxes of chocolates containing chocolate = [3, 2, 4] chocolates in the boxes. Sam wants to choose boxes such that the average number of chocolates among the chosen boxes is k = 3.  The boxes can be selected in the following 3 ways:
+
+
+
+Take chocolate[0] having 3 chocolates.
+Take chocolate[0, 1, 2] having (3, 2, 4) chocolates respectively, (3+2+4)/3 = 3
+Take chocolate[1, 2] having (2, 4) chocolates respectively, (2+4)/2 = 3
+
+
+Return the answer 3%(109+7) = 3.
+
+
+Function Description
+
+Complete the function chocolateBoxes in the editor below. The function should return an integer, the number of ways to choose boxes, modulo (109+7).
+
+
+
+chocolateBoxes has the following parameter(s):
+
+    k : an integer denoting the average number of chocolates
+
+    chocolate[chocolate[0], chocolate[1] .... chocolate[n-1]]: an integer array where chocolate[i] denotes the number of chocolates in ith box.
+
+
+
+Constraints
+
+1≤ k ≤ 50
+1≤ n ≤ 50
+1 ≤ chocolate[i]  ≤ 50
+
+
+Input Format For Custom Testing
+Sample Case 0
+Sample Input For Custom Testing
+
+3
+6
+3
+2
+4
+5
+1
+12
+
+Sample Output
+
+7",1,10:07:07,https://clojurians-log.clojureverse.org/100-days-of-code/2019-07-01,abhishekmonu62
+100-days-of-code,2019-07-01,"this is question asked in infosys power programmer contest
+
+can anyone help me with the code of above",2,10:07:24,https://clojurians-log.clojureverse.org/100-days-of-code/2019-07-01,abhishekmonu62
+aatree,2016-01-20,"Simplified aautil boot tasks, scoped dependencies.",1,21:01:57,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,converted closer-trait from laforge/aatree,2,22:01:52,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,I finally have admin access to this Windows 10 machine so tomorrow I should be able to install stuff,3,23:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,Sounds good.,4,23:01:07,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,"Unless you have some snippets to contribute, the aautil project is complete for now except for the docs and clojurescript tests.",5,23:01:19,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,Looks like converting .clj files to .cljc files is not difficult.,6,23:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,I very much want at least a simple database running on the client. ,7,23:01:23,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,It is nice to see the number of clj + cljc projects at ,8,23:01:59,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,I was looking at this and it looks like I'll be able to do something similar for the data structures I've defined: ,9,23:01:35,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,It looks like custom maps and such in cljs is easier than doing it in clj. ,10,23:01:23,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,definitely,11,23:01:12,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,sadly,12,23:01:24,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,?,13,23:01:43,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,sadly?,14,23:01:47,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,I feel a clojure fork is in my future,15,23:01:52,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,sad that clojure isn't as clean as clojurescript in its use of protocols,16,23:01:18,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,a clojure fork?,17,23:01:49,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,"most likely, yes",18,23:01:02,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,of?,19,23:01:11,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,the language,20,23:01:20,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,I am really not following.,21,23:01:31,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,You want to fork clojure?,22,23:01:40,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,yes,23,23:01:43,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,to fix its faults and allow its future to be community-driven,24,23:01:28,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,understood,25,23:01:49,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,using dunaj as inspiration,26,23:01:01,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,u and how many others?,27,23:01:19,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,as many that will follow,28,23:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,ah,29,23:01:35,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,"your initiative for now, hmm?",30,23:01:47,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,"I can't speak for anyone else and there is much fear in the community, but I am not alone",31,23:01:12,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,fear???,32,23:01:24,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,so someone needs to just do it,33,23:01:29,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,"yes, fear",34,23:01:36,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,of??,35,23:01:40,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,the unknown - combined with a litte too much politeness,36,23:01:10,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,ok,37,23:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,"I agree it needs to be done, not convinced this is the best time. Things seem pretty raw, so there is a lot of learning yet to be done.",38,23:01:05,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-20,now is the time - or soon-ish,39,23:01:24,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,clojure core development is not an open process,40,23:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,as someone who has contributed to open source for many years I have a problem with that,41,23:01:19,https://clojurians-log.clojureverse.org/aatree/2016-01-20,meow
+aatree,2016-01-20,understood,42,23:01:51,https://clojurians-log.clojureverse.org/aatree/2016-01-20,laforge49
+aatree,2016-01-21,and I have nothing to lose and therefore nothing to fear,1,00:01:13,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,,2,00:01:22,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,And that is no exageration - I literally have nothing to lose that hasn't already been lost,3,00:01:02,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,bummer,4,00:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,once you've lost it all - more than once - you are never the same,5,00:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,not a bummer - I am free,6,00:01:58,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,ah,7,00:01:08,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,me too,8,00:01:10,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,sweet,9,00:01:14,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,travel light through life,10,00:01:17,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,I've had nothing but the clothes on my back - more than once,11,00:01:43,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,Right now I have little more than that.,12,00:01:02,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,and that's about all I want,13,00:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,living in a 3 room apt. just breaking even. no heat most of the day.,14,00:01:32,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,I'm couch-surfing and grateful to not be on the streets.,15,00:01:10,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,I've also died twice. First time was melanoma. Told 20 years ago I had a significantly less than 5% chance of living 5 years.,16,00:01:24,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,2 years on the streets.,17,00:01:25,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,oh my!,18,00:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,These days drs tell me they have never seen a survivor who had melanoma spread to the lymph nodes.,19,00:01:05,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,about 6 months was in a tent - which was a luxury,20,00:01:07,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,everything is relative.,21,00:01:18,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,yes,22,00:01:23,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,we are survivors,23,00:01:41,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,Today we got a portable washing machine. Rupali has been washing our cloths by hand for the last year.,24,00:01:56,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,I would get new clothes and throw the old ones away if nobody else wanted them,25,00:01:28,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,newly donated,26,00:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,never did laundry the whole time I was on the streets,27,00:01:56,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,never had it that tough,28,00:01:11,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,but facing death was life changing too,29,00:01:31,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,it did me a world of good,30,00:01:35,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,,31,00:01:41,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,Learn what is important,32,00:01:49,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,definitely,33,00:01:59,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,I decided I was living a life that was not going anywhere and that I wanted to contribute something technical.,34,00:01:26,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,being humbled is interesting,35,00:01:45,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,instead of committing suicide I thought I'd try one last time to create a reality that embraced me,36,00:01:43,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,since I failed in my suicide attempt,37,00:01:05,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,"sounds good, if challenging",38,00:01:07,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,so far so good,39,00:01:20,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,and so the man does what he feels like,40,00:01:45,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,"whatever, I do what I want...",41,00:01:59,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,"or is it you do, yes, what you want.",42,00:01:09,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,;cartman:,43,00:01:10,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,the former means no dicipline,44,00:01:19,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,we need south park emoji,45,00:01:21,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,"lisp style, like all emoji. (sp)",46,00:01:44,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,?,47,00:01:56,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,(smile),48,00:01:08,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,"oh, I see",49,00:01:13,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,:keyword-emoji,50,00:01:34,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,"at least on skype, the emoji are represented by a word in paren",51,00:01:36,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,did not know that,52,00:01:45,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,"So, is cljs a good starting point?",53,00:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,"sorry, I mean cljc",54,00:01:34,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,being platform nutral,55,00:01:48,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,neutral,56,00:01:55,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,yes,57,00:01:35,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,Would you want a language that is platform agnostic or one that embraces the underlying platform?,58,00:01:38,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,reader conditionals,59,00:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,not sure,60,00:01:59,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,That's a good first question.,61,00:01:14,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,lots of benefits to host interop,62,00:01:16,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,yeah. and that is the UGLIEST part of clj.,63,00:01:35,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,Done quite badly.,64,00:01:44,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,I would lead by playing Socrates herding cats,65,00:01:12,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,ask a lot of questions and let the experts decde by consensus,66,00:01:34,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,I wouldn't write any of the code,67,00:01:48,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,other than writing in the language so I could eat the dogfood,68,00:01:12,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,nom nom nom,69,00:01:20,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,,70,00:01:28,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,how about square brackets instead of parens,71,00:01:39,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,I'll call you bill gates then. Intentionally incompatible,72,00:01:03,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,Though MS seems to have changed its spots of late.,73,00:01:21,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,,74,00:01:22,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,I just dread what MS is going to be doing in the near future once windows 8 is completely dead.,75,00:01:10,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,--let loose the gates of advertising.,76,00:01:21,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,I really think windows 10 is an advertising platform more than anything else.,77,00:01:40,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,Pay to turn the ads off!,78,00:01:09,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,lol,79,00:01:50,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,AdBlock in Chrome is awesome,80,00:01:05,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,and now there is someone working on a new browser that is doing ad replacement,81,00:01:23,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,--ex ceo of firefox,82,00:01:11,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,"OK, one advantage of [ over (  --no shift key, so you can type more easily.",83,00:01:00,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,But is ]]]]] as readable as )))))?,84,00:01:14,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,sure,85,01:01:33,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,its a trivial thing that makes it easier to break with the past and make a fresh start,86,01:01:32,https://clojurians-log.clojureverse.org/aatree/2016-01-21,meow
+aatree,2016-01-21,now using clojure 1.8.0,87,03:01:01,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-21,phantomjs for unit testing?,88,22:01:26,https://clojurians-log.clojureverse.org/aatree/2016-01-21,laforge49
+aatree,2016-01-22,"hello, ",1,00:01:16,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,,2,00:01:28,https://clojurians-log.clojureverse.org/aatree/2016-01-22,annapawlicka
+aatree,2016-01-22,: I'm behind on everything,3,00:01:50,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,in the weeds,4,00:01:10,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,in the swamp,5,00:01:16,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,"hey, ",6,00:01:28,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,bam hi ,7,00:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-22,micha
+aatree,2016-01-22,"Yo it's clojurian, whats up ?",8,00:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-22,slackbot
+aatree,2016-01-22,what's with this slackbot today?,9,00:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,": wtf, dude!",10,00:01:27,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,quit asking that,11,00:01:43,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,the aautil repository under aatree is now tied to this channel. ,12,02:01:17,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-22,--thanks to Anna.,13,02:01:45,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-22,": It is ok to be behind. ""Just do what you want!"" ",14,02:01:17,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-22,I try ,15,02:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-22,meow
+aatree,2016-01-22,I thought this would be helpful: ,16,02:01:57,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-22,But I do not understand the build.boot file.,17,02:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-22,So much to learn. And some of it might be harder than needed if it is a bit dated.,18,02:01:41,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-22,--things change so fast!,19,02:01:48,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-22,cleaned up the dependencies before adding more. ,20,03:01:16,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-22,Stuck: ,21,18:01:49,https://clojurians-log.clojureverse.org/aatree/2016-01-22,laforge49
+aatree,2016-01-23,new project: aacounters,1,01:01:13,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,will be used to demo aalog,2,01:01:25,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,Time to redo aalog. 'Cause I am not sure the goog.log is what I want. Looks like I just want aalog to be a dumb wrapper of console. --I'm NOT shooting for the moon here!,3,04:01:07,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"Once I have it working with js, I want to start on me databases again.",4,04:01:11,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,,5,04:01:11,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,reactji performance art inspire by la lune,6,04:01:38,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,,7,04:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,"I am happy with the very small progress made today. 'Cause it is all so new to me. But hopefully I can soon become productive again. New is fine, but nothing beats productive for the sheer joy of living. ",8,04:01:02,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,agreed - it will come,9,04:01:20,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,It is due.,10,04:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,Past due!,11,04:01:36,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,I need a break from all this.,12,04:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,,13,04:01:50,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,I want to crank some code!,14,04:01:57,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,I want to smoke some weed,15,04:01:09,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,That would not help my productivity.,16,04:01:32,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,,17,04:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,¯\,18,04:01:45,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,"aen ""what me worry!""",19,04:01:03,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"instead I got a pack of ""roll yer own"" american spirit organic",20,04:01:39,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,Alfred (mad magazine) was an early precursor to south park,21,04:01:42,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,love that mag,22,04:01:52,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,figured. ,23,04:01:22,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,you know me too well,24,04:01:34,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,how about OMNI magazine - big influence on me,25,04:01:06,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,We all love being predictable. What we don't like is when folk know when we are going to break pattern. We hate being predicted.,26,04:01:19,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,and drinking coffee with sinfire,27,04:01:32,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,Analog science fiction / science fact!,28,04:01:45,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,Big John W. Campbell fan here!,29,04:01:34,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,Read dune 25 times.,30,04:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,mythology at its best - wait -that's another Campbell,31,04:01:59,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,And it was serialized in Analog.,32,04:01:00,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,Joseph Conrad - Heart of Darkness,33,04:01:37,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,I love writing code indistinguishable from magic. But other devs just refuse to buy in.,34,04:01:38,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,it's all magick,35,04:01:51,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,"So now I want to write code in a series of modules, where each one is simple and understandable. And the composition is deep magic.",36,04:01:12,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,I love clojure's bag of properties pattern!,37,04:01:45,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,--use it extensively,38,04:01:59,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,But what I want is airity checking (number of arguments) when invoking a function reference.,39,04:01:23,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,(x 1 2) where x is a variable or expression.,40,04:01:52,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"((;f1 bag) bag 1 2) is how I like things, but there are NO checks!",41,04:01:22,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,--instead of methods,42,04:01:34,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,(bag is a map),43,04:01:57,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,bag is a map holding both data and functions.,44,04:01:19,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,ttfn. tired,45,04:01:48,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"brackets are better? [[:funFun bag] bag :apple ""sam""]",46,04:01:31,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,And lets bring back camel case!,47,04:01:32,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"no, I hate camel case",48,04:01:40,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,"dashes are much better, don't you agree",49,04:01:53,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,Unless you are providing a java interop!,50,14:01:58,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,Why not underscore then?,51,14:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,the _ - issues of clojure/java are really ugly.,52,14:01:20,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,true,53,14:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,Most of what I've done in clojure has been using the java interop. Which is why I have a worse-than-usual low opinion of the language. Very ad hoc and difficult to work with.,54,16:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"I've simplified aalog and gotten it working in aademo console. For the moment, it is residing in the console demo itself. Gotta fix that. ",55,16:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"coffee w/fireball for breakfast, yum",56,17:01:49,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,fireball?,57,18:01:00,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,: fireball is cinnamon-flavored whiskey - yum!!!,58,21:01:37,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,for breakfast,59,21:01:20,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,Put it on your oatmeal? ,60,21:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"no, in my coffee",61,21:01:01,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,Then you can light it. Oh! Oatmeal flambe.,62,21:01:10,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,Was wondering if you had any interest in rewriting aalog.,63,21:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,It really needs to be implemented using macros. So the formatting overhead is not invoked unless it qualifies for the current logging level.,64,21:01:39,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"Of course, I'm only talking about the clj side.",65,21:01:55,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"I still haven't installed any developer tools on this borrowed laptop yet, and my speaker proposal for clojure/west is due by the 29th and I've got some other things going on so it wouldn't be until the end of the month",66,21:01:15,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,"Actually, I'm thinking pancakes flambe would be more interesting.",67,21:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,There's no timeline on this.,68,21:01:52,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"yes, fireball on pancakes sounds good - maybe for breakfast tomorrow",69,21:01:05,https://clojurians-log.clojureverse.org/aatree/2016-01-23,meow
+aatree,2016-01-23,tell me how it comes out!,70,21:01:20,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,I really think of aalog as a place holder. I'm quite surprised that no one has done a cljc logger yet!,71,21:01:13,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-23,"I mean, it is a pain to use separate loggers when writing cljc.",72,21:01:37,https://clojurians-log.clojureverse.org/aatree/2016-01-23,laforge49
+aatree,2016-01-24,[ANN] aautil 0.0.1 is released: ,1,00:01:53,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24, I finally got the basics out of the way. Time to get back to working on databases and supporting structures. ,2,01:01:49,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,And I want to start by rewriting some of the code that is already done so that it can run in the browser.,3,01:01:33,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,Oh! I really aught to convert dewdrop first. ,4,01:01:58,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,And I want to implement it as a component.,5,01:01:37,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,"er, trait",6,01:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,looking very useful,7,01:01:01,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,,8,01:01:04,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,"ho! Forgot. Need a .hl  ""demo"" for closer.",9,02:01:06,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,"We now have two demos, counters and closer.",10,04:01:16,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,Next up is dewdrop.,11,04:01:29,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,cool,12,04:01:27,https://clojurians-log.clojureverse.org/aatree/2016-01-24,meow
+aatree,2016-01-24,"We now have 3 repositories: 
+aautil - for misc things of general interest
+aademo - for all kinds of demos relating to aatree and
+aadurable - for data structures and databases.",13,13:01:56,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,laforge/dewdrop will be added to aautil. It should integrate nicely with hoplon. ,14,13:01:12,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,another test: ,15,15:01:53,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24, Do you think we could create a cljs wrapper for this? ,16,17:01:33,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,: I don't know. I've never created a cljs wrapper.,17,17:01:58,https://clojurians-log.clojureverse.org/aatree/2016-01-24,meow
+aatree,2016-01-24,Neither have I. The js interop in cljs looks easy enough. My problem is that I don't know js.,18,17:01:47,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,"But my first question is, can we run a gzip/gunzip in the browser? The reference I found was for node.js. ",19,17:01:55,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,there is a ,20,17:01:04,https://clojurians-log.clojureverse.org/aatree/2016-01-24,meow
+aatree,2016-01-24,enjoy!,21,17:01:14,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,(if you want too!),22,17:01:30,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,"too busy right now, sorry",23,17:01:41,https://clojurians-log.clojureverse.org/aatree/2016-01-24,meow
+aatree,2016-01-24,I'm looking at a .cljc lens for reader/prn-str.,24,17:01:56,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,Is OK.,25,17:01:04,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,I knew that.,26,17:01:14,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-24,Just anticipating. ,27,17:01:24,https://clojurians-log.clojureverse.org/aatree/2016-01-24,laforge49
+aatree,2016-01-25," The key-atom-lens should work nicely with hoplon, as the key of the lens can be a cell. ",1,01:01:35,https://clojurians-log.clojureverse.org/aatree/2016-01-25,laforge49
+aatree,2016-01-25,"for a lens, this is overkill. Just looking for an in-memory zip/unzip!",2,01:01:02,https://clojurians-log.clojureverse.org/aatree/2016-01-25,laforge49
+aatree,2016-01-25,,3,01:01:19,https://clojurians-log.clojureverse.org/aatree/2016-01-25,laforge49
+aatree,2016-01-26,`Need an atomic-lens for dereferencing and updating  atoms.,1,15:01:44,https://clojurians-log.clojureverse.org/aatree/2016-01-26,laforge49
+aatree,2016-01-26,Need to think deeply about lswap! as well. Thinking this is bogus.,2,15:01:46,https://clojurians-log.clojureverse.org/aatree/2016-01-26,laforge49
+aatree,2016-01-26,Or not. ,3,15:01:25,https://clojurians-log.clojureverse.org/aatree/2016-01-26,laforge49
+aatree,2016-01-26,"Perhaps we just need more functions, like (areset! lens atom value)",4,16:01:43,https://clojurians-log.clojureverse.org/aatree/2016-01-26,laforge49
+aatree,2016-01-26,Reworked the dewdrop api. Now just need to update the demo.,5,19:01:24,https://clojurians-log.clojureverse.org/aatree/2016-01-26,laforge49
+aatree,2016-01-26,[ANN] aautil 0.0.3 released with dewdrop. See demo:  ,6,19:01:13,https://clojurians-log.clojureverse.org/aatree/2016-01-26,laforge49
+aatree,2016-01-28,Very interested in ,1,15:01:51,https://clojurians-log.clojureverse.org/aatree/2016-01-28,laforge49
+aatree,2016-01-28,Why? because js/indexedDb works best inside a web worker.,2,15:01:31,https://clojurians-log.clojureverse.org/aatree/2016-01-28,laforge49
+aatree,2016-01-28,So I'm wondering if we can have a wrapper for servant that works just as well with .clj ,3,15:01:21,https://clojurians-log.clojureverse.org/aatree/2016-01-28,laforge49
+aatree,2016-01-29,the w3c-worker demo is only just started. Right now it is just html and js. But that needs to change.,1,16:01:07,https://clojurians-log.clojureverse.org/aatree/2016-01-29,laforge49
+aatree,2016-01-31,time to update the aademo dependencies methinks,1,19:01:35,https://clojurians-log.clojureverse.org/aatree/2016-01-31,laforge49
+aatree,2016-02-01,"New repository, aaworker, a framework for transactional web workers.",1,14:02:24,https://clojurians-log.clojureverse.org/aatree/2016-02-01,laforge49
+aatree,2016-02-03,"double notifications are no good, just fixed.",1,17:02:10,https://clojurians-log.clojureverse.org/aatree/2016-02-03,laforge49
+aatree,2016-02-03,After a discussion with ,2,17:02:00,https://clojurians-log.clojureverse.org/aatree/2016-02-03,laforge49
+aatree,2016-02-03,"Actually, my main interest here is learning how to do this in cljs. ",3,18:02:38,https://clojurians-log.clojureverse.org/aatree/2016-02-03,laforge49
+aatree,2016-02-03,"--still need to add swap! variations and compare-and-set, and the cljs enhancements have not been even started!",4,18:02:55,https://clojurians-log.clojureverse.org/aatree/2016-02-03,laforge49
+aatree,2016-02-03, Looks like javelin holds the answer to the js techniques I need to master.,5,21:02:31,https://clojurians-log.clojureverse.org/aatree/2016-02-03,laforge49
+aatree,2016-02-04,,1,13:02:43,https://clojurians-log.clojureverse.org/aatree/2016-02-04,laforge49
+aatree,2016-02-04,So it looks like I will be returning to the tworker demo. ,2,17:02:09,https://clojurians-log.clojureverse.org/aatree/2016-02-04,laforge49
+aatree,2016-02-04,But very happy about what I learned in aautil 0.0.4,3,17:02:50,https://clojurians-log.clojureverse.org/aatree/2016-02-04,laforge49
+aatree,2016-02-04,I.E. JS defrecord,4,17:02:24,https://clojurians-log.clojureverse.org/aatree/2016-02-04,laforge49
+aatree,2016-02-04,The dewdrop code now illustrates quite nicely the differences in defrecord between clojure and clojurescript.,5,17:02:43,https://clojurians-log.clojureverse.org/aatree/2016-02-04,laforge49
+aatree,2016-02-05,"I just had an epiphany on how important server-side javelin could be.
+The key is in the chaining of formula cell change notifications.
+If the base input cell changes, then the first-level formula cells may be updated, depending on what the change was.
+And this recurs until you reach the formula cell that is used by the application.
+So a tree of formula cells can be used to efficiently filter changes and route interesting changes to an application.
+
+OK, so I'm a bit slow at times. ",1,15:02:36,https://clojurians-log.clojureverse.org/aatree/2016-02-05,laforge49
+aatree,2016-02-05,still need to add async.core,2,22:02:50,https://clojurians-log.clojureverse.org/aatree/2016-02-05,laforge49
+aatree,2016-02-06,Now to split out the library from the demo.,1,15:02:09,https://clojurians-log.clojureverse.org/aatree/2016-02-06,laforge49
+aatree,2016-02-08,Looks like tomorrow I'll be able to start working on indexedDB. ,1,02:02:21,https://clojurians-log.clojureverse.org/aatree/2016-02-08,laforge49
+aatree,2016-02-08,So now I'm back to working on aaworker. ,2,16:02:03,https://clojurians-log.clojureverse.org/aatree/2016-02-08,laforge49
+aatree,2016-02-08,--at least I made some progress on the duracell demo code.,3,16:02:19,https://clojurians-log.clojureverse.org/aatree/2016-02-08,laforge49
+aatree,2016-02-10,Just need to split out the dcells project.,1,14:02:28,https://clojurians-log.clojureverse.org/aatree/2016-02-10,laforge49
+aatree,2016-02-10,Next up: document durable-cells.,2,15:02:07,https://clojurians-log.clojureverse.org/aatree/2016-02-10,laforge49
+aatree,2016-02-10,"Time to up the ante I'm thinking. Or, back to the original plan of creating custom maps/vectors/sets in cljc.",3,21:02:02,https://clojurians-log.clojureverse.org/aatree/2016-02-10,laforge49
+aatree,2016-02-10,But before that I should take some time to work off to work on other things.,4,21:02:27,https://clojurians-log.clojureverse.org/aatree/2016-02-10,laforge49
+aatree,2016-02-12,Taking more time off today. And thinking about doing more durable-cell demos.,1,12:02:46,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-12,"A todo demo with local storage seems quite appropriate, though I will want to research it a bit more before making any commitment.",2,16:02:33,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-12,"Love to work on chat, but that needs server-side storage before adding local storage. Indeed, adding server-side storage by itself would be a nice intermediate step. This would allow you to change devices.",3,16:02:49,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-12,My concern here is that local storage can be lost at any time based on storage availability and usage history. So it is best to think of local storage as more of a cache.,4,16:02:06,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-12," I was just looking at hoplon's storage-atom, used the the todoFRP demos. I was oblivious! ",5,20:02:09,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-12,"Of course, there's a big difference between local storage and indexed db. But then, I've got a really difficult API in durable-cells. Gotta change that!",6,20:02:29,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-12,My first concern is to eliminate all need for worker-side application code.,7,20:02:30,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-12,The updated aaworker works with the existing tworker and duracell demos. ,8,23:02:09,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-12,--So it is at least backwards compatible.,9,23:02:26,https://clojurians-log.clojureverse.org/aatree/2016-02-12,laforge49
+aatree,2016-02-14,writing longish macros ,1,18:02:50,https://clojurians-log.clojureverse.org/aatree/2016-02-14,laforge49
+aatree,2016-02-15,How are you Bill?,1,19:02:27,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15," Fine, though it is a bit too quiet for my tastes. Too many years of working at home. Yourself?",2,19:02:16,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,Similar. I'm doing a ton of chatting on various platforms.,3,19:02:16,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,Weather and circumstances ruined my date plans for yesterday.,4,19:02:46,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,There are direct messages if you want to make comments like that. ,5,19:02:57,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,True,6,19:02:04,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,I've learned to not mind my ill manners. ,7,19:02:42,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,"But this is your channel, so you make the rules.",8,19:02:12,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,"A bit more professional then, if you please.",9,19:02:39,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,"Yes, sir. I will from now on.",10,19:02:50,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,Message edited to conform.,11,19:02:47,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,Making good progress on improving both aaworker and durable-cells.,12,19:02:58,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,I see your commit messages.,13,19:02:09,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,"As for the demo, I think I need to contrast what I've done with the local storage integration already present in hoplon--which I uncovered when I looked at the hoplon todo demo.",14,19:02:06,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,I haven't written a lick of code in a while now.,15,19:02:10,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,I don't fully wake up unless I am writing code.,16,19:02:39,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,And I don't see that changing until after Clojure/west in Seattle.,17,19:02:45,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,--Had this bad habit for too many years now!,18,19:02:57,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,There are worse habits.,19,19:02:08,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,I have a few. ,20,19:02:16,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-15,Had to drop most of my other bad habits for health reasons.,21,19:02:44,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,"As it is, I sit too much.",22,19:02:06,https://clojurians-log.clojureverse.org/aatree/2016-02-15,laforge49
+aatree,2016-02-15,"Yes, I have that problem as well.",23,19:02:20,https://clojurians-log.clojureverse.org/aatree/2016-02-15,meow
+aatree,2016-02-22,Time to start working on ,1,16:02:53,https://clojurians-log.clojureverse.org/aatree/2016-02-22,laforge49
+aatree,2016-02-22,"This will start slowly, as I no longer understand the code I am migrating.  ;D",2,16:02:28,https://clojurians-log.clojureverse.org/aatree/2016-02-22,laforge49
+aatree,2016-02-25,"ah, major course correction.",1,14:02:34,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,"I was looking into having a database on both clojure and clojurescript, but I am putting that aside indefinitely.",2,14:02:23,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,One thing that led to this decision was bitset. Found a js bitset which is an array. Found a clojure bitset which is a set. Both immutable. Neither works with byte arrays. So it looks like developing a common api for bitset with bytebuffer support would be a project all by itself.,3,14:02:51,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,"Conclusion: this is not yet the time, at least for me.",4,14:02:16,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,Now what I should do instead is work on gui for laforge49/aatree. Enhance existing value. Seems like a good focus for me for now.,5,15:02:48,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,"Hmm. Thinking of just copying most of laforge49/aatree to aatree/aadurable, but make aadurable boot based.",6,15:02:46,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,need to think about it.,7,15:02:01,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,"Having second thoughts. I think I can do without bit strings except for the 256-bit checksum, which could be done without any library.",8,22:02:36,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,Having a 256-bit checksum in cljc is worth doing. ,9,22:02:09,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-25,And I'm sure I'll learn a bit about clojurescript in the process.,10,22:02:43,https://clojurians-log.clojureverse.org/aatree/2016-02-25,laforge49
+aatree,2016-02-26,"Speaking at the nyc clojure meetup on March 30th.
+
+This is a 2-part talk, where the first part covers web workers, related issues and a very simple demo.
+In the second part we look at some basic cljc libraries, including logging, lenses and components.
+
+All the code covered in this talk can be found here: ",1,18:02:04,https://clojurians-log.clojureverse.org/aatree/2016-02-26,laforge49
+aatree,2016-02-28,"Having worked on byte arrays and a 256-bit checksum, and having looked over funcool/octet, I am much more confident now in proceeding with aadurable!",1,18:02:03,https://clojurians-log.clojureverse.org/aatree/2016-02-28,laforge49
+aatree,2016-03-01,"need to create a test demo for aadurable, so that the cljs code can be tested.",1,15:03:25,https://clojurians-log.clojureverse.org/aatree/2016-03-01,laforge49
+aatree,2016-03-16,"With some work I'll be able to eliminate the use of aot entirely, which solves the problems I've been having. Proxy is much more idiomatic than gen-class, too.",1,17:03:58,https://clojurians-log.clojureverse.org/aatree/2016-03-16,laforge49
+aatree,2016-03-28,Web Worker slides: ,1,22:03:57,https://clojurians-log.clojureverse.org/aatree/2016-03-28,laforge49
+aatree,2016-04-01,Looking to use ,1,20:04:24,https://clojurians-log.clojureverse.org/aatree/2016-04-01,laforge49
+aatree,2016-04-01,And using ,2,20:04:45,https://clojurians-log.clojureverse.org/aatree/2016-04-01,laforge49
+aatree,2016-04-01,Then I can add a video to each demo in ,3,20:04:05,https://clojurians-log.clojureverse.org/aatree/2016-04-01,laforge49
+aatree,2018-03-15,,1,17:03:53,https://clojurians-log.clojureverse.org/aatree/2018-03-15,github
+admin-announcements,2016-08-26,"
+
+io.aviso/rook has undergone a full rewrite, keeping its essence, but aligning with Pedestal.
+
+Rook is a library that makes it easy to map namespaces, and functions within those namespaces, as endpoints in a Pedestal application.
+
+You end up with far less configuration without sacrificing any of the power of Pedestal.
+
+",1,22:08:58,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-26,hlship
+admin-announcements,2016-08-27,,1,09:08:29,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-27,ingesol
+admin-announcements,2016-08-27,[ann] bide 1.0.2 - a simple routing library for clojurescript - ,2,13:08:11,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-27,niwinz
+admin-announcements,2016-08-27,just released a support issue tracker app using luminus/re-frame,3,14:08:42,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-27,yogthos
+admin-announcements,2016-08-27,,4,14:08:44,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-27,yogthos
+admin-announcements,2016-08-27,Hi all ,5,15:08:07,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-27,achesnais
+admin-announcements,2016-08-29,"Ring-swagger 0.22.10 is out: works now with Clojure 1.9alpha11, supports primitive arrays, s/defrecords and LocalTimes. Thank you for all the contributors! ",1,08:08:43,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-29,ikitommi
+admin-announcements,2016-08-29,"[ann] cuerdas 1.0.0 - a string manipulation library for Clojure and ClojureScript - Many new stuff: unindent, better formating, string interpolation, unicode awareness and many bug and consistency fixes (mostly backward compatible but with small breaking changes) - ",2,20:08:26,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-29,niwinz
+admin-announcements,2016-08-30,I am selling my early bird ,1,05:08:24,https://clojurians-log.clojureverse.org/admin-announcements/2016-08-30,andrei
+admin-announcements,2016-09-01,[ann] I released a Pedestal Component wrapper today: ,1,18:09:44,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-01,grzm
+admin-announcements,2016-09-03,Dirac DevTools v0.6.5: ,1,13:09:43,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-03,darwin
+admin-announcements,2016-09-06,Specter 0.13.0 released. Specter is a library that supercharges your ability to query and transform regular data structures. Discuss in ,1,14:09:41,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,nathanmarz
+admin-announcements,2016-09-06,"Also published a benchmark along with the release comparing Specter against various manual ways of doing common operations. This includes comparisons with lazy operations, transducers, transients, clojure.walk, and other miscellaneous functions/interfaces. ",2,14:09:28,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,nathanmarz
+admin-announcements,2016-09-06, what version of Clojure is being used for the benchmarks?,3,16:09:24,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,alexmiller
+admin-announcements,2016-09-06,"project.clj has 1.7 for dev dependency but it’s hard to tell for the benchmarks themselves. There have been some mods in 1.9 (maybe 1.8 too, not sure) that affect some of these significantly.",4,16:09:51,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,alexmiller
+admin-announcements,2016-09-06,"in any case, it should be clear what the comparison is",5,16:09:59,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,alexmiller
+admin-announcements,2016-09-06," 1.7.0, will make that clear on the benchmark and publish another one against 1.8.0.  Thanks",6,16:09:40,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,nathanmarz
+admin-announcements,2016-09-06,thx,7,16:09:02,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,alexmiller
+admin-announcements,2016-09-06,kinda nice to see some of these even just for the core calls,8,16:09:04,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,alexmiller
+admin-announcements,2016-09-06,"on the “map a function over a vector”, could you add ",9,16:09:35,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,alexmiller
+admin-announcements,2016-09-06,"on “filter a sequence”, maybe ",10,16:09:30,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-06,alexmiller
+admin-announcements,2016-09-07,defn Podcast Episode #9 is out: Onyx featuring ,1,06:09:21,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-07,vijaykiran
+admin-announcements,2016-09-07,Clojure 1.9.0-alpha12 is out - ,2,21:09:41,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-07,alexmiller
+admin-announcements,2016-09-08,Hey everyone ,1,14:09:29,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-08,cormac_cahill
+admin-announcements,2016-09-08, Just a gentle reminder. Every user is subscribed to this channel and will receive the messages posted here. Please keep it to announcements and use ,2,20:09:53,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-08,sveri
+admin-announcements,2016-09-08,I think it's possible for admins to disable posting to this channel? That would be nice.,3,23:09:06,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-08,gfredericks
+admin-announcements,2016-09-09,"Based on feedback from community members over recent months and discussions amongst the Admin Team, we’ve decided to run a trial with a new opt-in ",1,19:09:35,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-09,seancorfield
+admin-announcements,2016-09-12,"Clojure chat group  in Telegram messenger 
+",1,12:09:07,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-12,musichen
+admin-announcements,2016-09-12,KLIPSE just hit 400 starts on github: ,2,14:09:39,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-12,viebel
+admin-announcements,2016-09-12,"As indicated on September 9th, we are restricting this channel to announcements from the Clojurians Admin Team only, since it is non-partable. There is a new (well, recently unarchived) ",3,19:09:37,https://clojurians-log.clojureverse.org/admin-announcements/2016-09-12,seancorfield
+admin-announcements,2016-11-23,"FYI, sending unsolicited Direct Messages to people here, offering commercial services, is unacceptable behavior and will lead to an immediate ban. I’m surprised this has to even be said, but someone has just been banned for this, after complaints from several people. If you receive such a DM, please report it (in ",1,23:11:06,https://clojurians-log.clojureverse.org/admin-announcements/2016-11-23,seancorfield
+admin-announcements,2016-11-28,"We have added a new member to our admin team today, ",1,20:11:40,https://clojurians-log.clojureverse.org/admin-announcements/2016-11-28,gjnoonan
+admin-announcements,2016-12-12,"The Annual State of Clojure Community Survey is now live, thru December 23rd: ",1,16:12:02,https://clojurians-log.clojureverse.org/admin-announcements/2016-12-12,seancorfield
+admin-announcements,2016-12-20,Quick reminder (from ,1,17:12:08,https://clojurians-log.clojureverse.org/admin-announcements/2016-12-20,seancorfield

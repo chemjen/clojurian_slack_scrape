@@ -13,5 +13,9 @@ class ClojuriansSlackItem(scrapy.Item):
     # name = scrapy.Field()
     channel = scrapy.Field()
     date = scrapy.Field()
-    user = scrapy.Field()
+    url = scrapy.Field()
+    timestamp = scrapy.Field()
+    thread = scrapy.Field()
+    username = scrapy.Field()
     text = scrapy.Field()
+
